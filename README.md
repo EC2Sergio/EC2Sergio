@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio!</h1>
-<h3 align="center">A passionate cloud engineer always learning but never satisfying my thirst for knowledge.</h3>
+<h3 align="center">A passionate engineer shifting into the world of cloud.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ec2sergio&label=Profile%20views&color=0e75b6&style=flat" alt="ec2sergio" /> </p>
 
