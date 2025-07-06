@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EC2Sergio](https://github.com/EC2Sergio)
 
-- 💬 Ask me about **AZ Static Web Apps**
+- 💬 Ask me about **Azure Static Web Apps**
 
 - 📫 How to reach me **EC2Sergio@outlook.com**
 
